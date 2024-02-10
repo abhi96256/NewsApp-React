@@ -2,7 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+SCREENSHOTS
+
+OVERVIEW
+
+## Avai![Screenshot (680)](https://github.com/abhi96256/NewsApp-React/assets/131523953/c9928ab6-efdb-4c76-8f06-456b21491bc3)
+
+HOME
+
+
+![Screenshot (681)](https://github.com/abhi96256/NewsApp-React/assets/131523953/713435a3-b083-4c4e-bb8f-4fbc167719b8)
+
+FOOTER
+
+![Screenshot (682)](https://github.com/abhi96256/NewsApp-React/assets/131523953/5c56c3be-1f09-47f6-8bf2-23ed1562db6d)
+
+DURING RELOAD
+
+
+![Screenshot (685)](https://github.com/abhi96256/NewsApp-React/assets/131523953/61428f6a-d254-4a5e-9a66-b8be6b05f0e4)
+
+READ MORE 
+![Screenshot (686)](https://github.com/abhi96256/NewsApp-React/assets/131523953/cb7e745c-c75c-4141-8655-1880b0a49e5b)
+
+lable Scripts
 
 In the project directory, you can run:
 
